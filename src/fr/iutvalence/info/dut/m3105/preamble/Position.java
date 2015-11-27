@@ -16,7 +16,6 @@ public class Position
 	{
 		return "("+this.x+","+this.y+")";
 	}
-
 	public int getX()
 	{
 		return x;
